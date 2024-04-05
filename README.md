@@ -23,3 +23,10 @@
    ```
 - Now the clients can use the application.
 
+- ![Screenshot 2024-03-18 103201](https://github.com/dope232/SeatSmart/assets/110282397/dffdca62-67f0-4d13-b9e7-7128a27dfa7f)
+
+- ![Screenshot 2024-03-18 114205](https://github.com/dope232/SeatSmart/assets/110282397/5163ee8c-d79e-4252-8b50-19a85c1e360d)
+
+
+![Screenshot 2024-03-18 103349](https://github.com/dope232/SeatSmart/assets/110282397/ca9ec333-6d06-4808-8315-c4276f357b02)
+
